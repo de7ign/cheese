@@ -1,0 +1,15 @@
+
+.shim {
+  position: absolute;
+  background-color: rgba(255, 109, 255, 0.5);
+  height: 100%;
+  top: 0rem;
+  width: 5rem;
+  transform: skewX(-30deg);
+  z-index: 1;
+  visibility: hidden;
+}
+
+.cardShadow {
+  box-shadow: 5px 10px black;
+}
